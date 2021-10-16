@@ -1,1 +1,1 @@
-# study-material
+# aws-study-material
